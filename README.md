@@ -6,3 +6,13 @@
 
 ![Captura de pantalla (367)](https://user-images.githubusercontent.com/75953873/137247211-d80483be-f4d3-4cde-aa2b-878e43531673.png)
 
+
+## Install
+
+```
+• git clone https://github.com/R3LI4NT/DragonCrack
+• cd DragonCrack
+• sudo bash requirements.sh 
+• python3 dragoncrack.py
+```
+
