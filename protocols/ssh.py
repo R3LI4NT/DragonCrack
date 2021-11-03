@@ -25,7 +25,7 @@ username_list = username_list.read().split('\n')
 
 passwords_list = open(input("\033[0;32mPasswords\033[0m  wordlist : "), 'r',)
 passwords_list = passwords_list.read().split('\n')
-print("\033[0;32mPort\033[0m : 22\n")	
+print(f"\033[0;32mPort\033[0m : {port}\n")
 
 for u in username_list:
 	for p in passwords_list:
