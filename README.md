@@ -10,7 +10,7 @@
 
 ## Install
 
-```
+```bash
 • git clone https://github.com/R3LI4NT/DragonCrack
 • cd DragonCrack
 • sudo bash requirements.sh 
